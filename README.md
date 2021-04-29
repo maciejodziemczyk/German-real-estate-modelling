@@ -12,7 +12,7 @@ The main objective of this project was to practice econometric methods learned d
 Findings:
  - real estate characteristics are conditional dependend on price distribution => quantile regression was a good guess
  - Hesse is the most expensive Land among considered ones
- - higher quantiles lower negative impact of age on price
+ - higher quantiles => lower negative impact of age on price
  - lot has nonlinear positive impact on price (middle class cares the least)
  - and more (can be found in the report :) I encourage you to read it, I like it a lot)
 
