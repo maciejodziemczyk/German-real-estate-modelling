@@ -28,7 +28,7 @@ In this project I learnt more about econometric modelling and saw the power of q
  - LaTeX (report)
 
 ## Authors
- - Bartek Kuźma [(GitHub)](https://github.com/bartekkuzma?fbclid=IwAR3ECTUCuv44NIAUiOLB8H-LDyHMCyUPCQr86Z4KgH2-iaOHVSz6uatXZQY)
+ - Bartłomiej Kuźma [(GitHub)](https://github.com/bartekkuzma?fbclid=IwAR3ECTUCuv44NIAUiOLB8H-LDyHMCyUPCQr86Z4KgH2-iaOHVSz6uatXZQY)
  - Maciej Odziemczyk
 
 ## Notes
