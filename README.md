@@ -28,8 +28,8 @@ In this project I learnt more about econometric modelling and saw the power of q
  - LaTeX (report)
 
 ## Authors
-Bartek Kuźma [(GitHub)](https://github.com/bartekkuzma?fbclid=IwAR3ECTUCuv44NIAUiOLB8H-LDyHMCyUPCQr86Z4KgH2-iaOHVSz6uatXZQY)
-Maciej Odziemczyk
+ - Bartek Kuźma [(GitHub)](https://github.com/bartekkuzma?fbclid=IwAR3ECTUCuv44NIAUiOLB8H-LDyHMCyUPCQr86Z4KgH2-iaOHVSz6uatXZQY)
+ - Maciej Odziemczyk
 
 ## Notes
 Our analysis was performed using many softwares (Python, R, STATA), but we needed to send report only as an assignment thats why whe had not prepared good quality notebook with code
